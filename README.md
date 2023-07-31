@@ -1,6 +1,6 @@
 # Hangman using React
 
-This is the hangman game re-developed in learning React and Redux
+This is the hangman game re-developed in learning React Redux
 
 ## How to run:
 
